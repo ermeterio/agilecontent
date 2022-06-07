@@ -16,15 +16,16 @@ namespace CandidateTesting.DanielCarvalho.Domain.Factory
             string str = "";
             using (var reader = new StringReader(log))
             {
+                int line = 1;
                 while((str = reader.ReadLine()) != null)
                 {
                     var item = str.Split('|');
                     if (item.Length < 5)
-                        throw new Exception($" not contains a correct sequence");
+                        throw new Exception($"Line not contains a correct sequence");
                     try
                     {        
                         if(item[3].Split(' ').Length < 3)
-                            throw new Exception($" block three does not match the required format, example: \"GET / robots.txt HTTP / 1.1\"");
+                            throw new Exception($"Block three does not match the required format, example: \"GET / robots.txt HTTP / 1.1\"");
 
                         var method = item[3].Split(' ')[0].Replace("\"","");
 
@@ -33,17 +34,12 @@ namespace CandidateTesting.DanielCarvalho.Domain.Factory
                             method != "PUT" &&
                             method != "DELETE" &&
                             method != "PATCH")
-                            throw new Exception($" block three does not http valid method");
+                            throw new Exception($"Block three does not http valid method");
 
                         int statusCode = Convert.ToInt32(item[1]);
-                        try
-                        {
-                            var stcode = (HttpStatusCode)statusCode;
-                        }
-                        catch
-                        {
-                            throw new Exception($" Status code incorrect");
-                        }
+                        if(statusCode < 100 || statusCode > 599)
+                            throw new Exception($"Status code incorrect");
+                        
                         ret.Add(new Log()
                         {
                             cacheStatus = item[2] == "INVALIDATE" ? "REFRESH_HIT" : item[2],
@@ -55,8 +51,9 @@ namespace CandidateTesting.DanielCarvalho.Domain.Factory
                         });
                     }catch(Exception ex)
                     {
-                        throw new Exception($"Exception line \"{item}\" : {ex.Message}");
-                    }                    
+                        throw new Exception($"Line {line} : {ex.Message}");
+                    }
+                    line++;
                 }
             }
             return ret;

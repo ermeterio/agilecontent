@@ -24,7 +24,7 @@ namespace CandidateTesting.DanielCarvalho.Application
             if (args[0] != "convert")
                 throw new Exception("This program has only the developed conversion function");
 
-            if(args[0] == "convert" && args.Length < 3)
+            if(args[0] == "convert" && args.Length != 3)
                 throw new Exception("The conversion function needs 2 parameters: FileInput URL and OutputDirectory");
 
             _fileApplication.ValidatioFile(args[1]);
