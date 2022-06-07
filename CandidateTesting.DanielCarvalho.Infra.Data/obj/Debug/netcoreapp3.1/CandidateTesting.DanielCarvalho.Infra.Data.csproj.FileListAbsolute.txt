@@ -1,0 +1,9 @@
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\bin\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.Data.deps.json
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\bin\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.Data.dll
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\bin\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.Data.pdb
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.Data.csprojAssemblyReference.cache
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.Data.AssemblyInfoInputs.cache
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.Data.AssemblyInfo.cs
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.Data.dll
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.Data.pdb

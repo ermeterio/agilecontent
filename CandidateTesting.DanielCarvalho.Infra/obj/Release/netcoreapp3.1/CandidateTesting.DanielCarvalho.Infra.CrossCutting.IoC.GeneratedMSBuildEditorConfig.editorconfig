@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC
+build_property.ProjectDir = \\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\

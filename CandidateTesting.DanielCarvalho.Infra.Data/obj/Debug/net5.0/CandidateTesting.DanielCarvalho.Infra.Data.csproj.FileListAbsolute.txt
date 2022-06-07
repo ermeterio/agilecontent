@@ -1,0 +1,12 @@
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\bin\Debug\net5.0\CandidateTesting.DanielCarvalho.Infra.Data.deps.json
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\bin\Debug\net5.0\CandidateTesting.DanielCarvalho.Infra.Data.dll
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\bin\Debug\net5.0\CandidateTesting.DanielCarvalho.Infra.Data.pdb
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Infra.Data.csproj.AssemblyReference.cache
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Infra.Data.AssemblyInfoInputs.cache
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Infra.Data.AssemblyInfo.cs
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Infra.Data.csproj.CoreCompileInputs.cache
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Infra.Data.dll
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\net5.0\refint\CandidateTesting.DanielCarvalho.Infra.Data.dll
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Infra.Data.pdb
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra.Data\obj\Debug\net5.0\ref\CandidateTesting.DanielCarvalho.Infra.Data.dll

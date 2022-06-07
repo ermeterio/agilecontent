@@ -1,0 +1,15 @@
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\bin\Debug\net5.0\CandidateTesting.DanielCarvalho.Domain.deps.json
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\bin\Debug\net5.0\CandidateTesting.DanielCarvalho.Domain.dll
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\bin\Debug\net5.0\CandidateTesting.DanielCarvalho.Domain.pdb
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\bin\Debug\net5.0\CandidateTesting.DanielCarvalho.Infra.Data.dll
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\bin\Debug\net5.0\CandidateTesting.DanielCarvalho.Infra.Data.pdb
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Domain.csproj.AssemblyReference.cache
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Domain.GeneratedMSBuildEditorConfig.editorconfig
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Domain.AssemblyInfoInputs.cache
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Domain.AssemblyInfo.cs
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Domain.csproj.CoreCompileInputs.cache
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Domain.csproj.CopyComplete
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Domain.dll
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\obj\Debug\net5.0\refint\CandidateTesting.DanielCarvalho.Domain.dll
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\obj\Debug\net5.0\CandidateTesting.DanielCarvalho.Domain.pdb
+\\danielcarvalho\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Models\obj\Debug\net5.0\ref\CandidateTesting.DanielCarvalho.Domain.dll

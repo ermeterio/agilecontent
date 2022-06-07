@@ -1,0 +1,16 @@
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\obj\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\obj\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\obj\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.AssemblyInfo.cs
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\obj\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\bin\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.deps.json
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\bin\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.dll
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\bin\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.pdb
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\bin\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Application.dll
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\bin\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Domain.dll
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\bin\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.Data.dll
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\bin\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Application.pdb
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\bin\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Domain.pdb
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\bin\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.Data.pdb
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\obj\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.csproj.CopyComplete
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\obj\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.dll
+D:\Desenvolvimento\avaliacao\CandidateTesting.DanielCarvalho\CandidateTesting.DanielCarvalho.Infra\obj\Debug\netcoreapp3.1\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.pdb

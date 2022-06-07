@@ -1,0 +1,280 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra\\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.csproj": {}
+  },
+  "projects": {
+    "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Application\\CandidateTesting.DanielCarvalho.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Application\\CandidateTesting.DanielCarvalho.Application.csproj",
+        "projectName": "CandidateTesting.DanielCarvalho.Application",
+        "projectPath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Application\\CandidateTesting.DanielCarvalho.Application.csproj",
+        "packagesPath": "C:\\Users\\daniel.carvalho\\.nuget\\packages\\",
+        "outputPath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daniel.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://localhost/NuGetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra.Data\\CandidateTesting.DanielCarvalho.Infra.Data.csproj": {
+                "projectPath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra.Data\\CandidateTesting.DanielCarvalho.Infra.Data.csproj"
+              },
+              "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Models\\CandidateTesting.DanielCarvalho.Domain.csproj": {
+                "projectPath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Models\\CandidateTesting.DanielCarvalho.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra.Data\\CandidateTesting.DanielCarvalho.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra.Data\\CandidateTesting.DanielCarvalho.Infra.Data.csproj",
+        "projectName": "CandidateTesting.DanielCarvalho.Infra.Data",
+        "projectPath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra.Data\\CandidateTesting.DanielCarvalho.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\daniel.carvalho\\.nuget\\packages\\",
+        "outputPath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daniel.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://localhost/NuGetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra\\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra\\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.csproj",
+        "projectName": "CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC",
+        "projectPath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra\\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\daniel.carvalho\\.nuget\\packages\\",
+        "outputPath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daniel.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://localhost/NuGetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Application\\CandidateTesting.DanielCarvalho.Application.csproj": {
+                "projectPath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Application\\CandidateTesting.DanielCarvalho.Application.csproj"
+              },
+              "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Models\\CandidateTesting.DanielCarvalho.Domain.csproj": {
+                "projectPath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Models\\CandidateTesting.DanielCarvalho.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Models\\CandidateTesting.DanielCarvalho.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Models\\CandidateTesting.DanielCarvalho.Domain.csproj",
+        "projectName": "CandidateTesting.DanielCarvalho.Domain",
+        "projectPath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Models\\CandidateTesting.DanielCarvalho.Domain.csproj",
+        "packagesPath": "C:\\Users\\daniel.carvalho\\.nuget\\packages\\",
+        "outputPath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\daniel.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://localhost/NuGetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra.Data\\CandidateTesting.DanielCarvalho.Infra.Data.csproj": {
+                "projectPath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra.Data\\CandidateTesting.DanielCarvalho.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZpo2rjBBVJYHjd5wTbcubqGY0v8YyNIit3ZFRM7yjh02XQ5wJfuRLFT1sCefRuM2yPXBICRGorIozLTet6vRQ==",
+  "success": true,
+  "projectFilePath": "\\\\danielcarvalho\\Desenvolvimento\\avaliacao\\CandidateTesting.DanielCarvalho\\CandidateTesting.DanielCarvalho.Infra\\CandidateTesting.DanielCarvalho.Infra.CrossCutting.IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.carvalho\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.carvalho\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.carvalho\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
