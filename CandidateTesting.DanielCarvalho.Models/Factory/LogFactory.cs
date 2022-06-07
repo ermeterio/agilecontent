@@ -18,13 +18,14 @@ namespace CandidateTesting.DanielCarvalho.Domain.Factory
             {
                 int line = 1;
                 while((str = reader.ReadLine()) != null)
-                {
-                    var item = str.Split('|');
-                    if (item.Length < 5)
-                        throw new Exception($"Line not contains a correct sequence");
+                {                    
                     try
-                    {        
-                        if(item[3].Split(' ').Length < 3)
+                    {
+                        var item = str.Split('|');
+                        if (item.Length < 5)
+                            throw new Exception($"Not contains a correct sequence");
+
+                        if (item[3].Split(' ').Length < 3)
                             throw new Exception($"Block three does not match the required format, example: \"GET / robots.txt HTTP / 1.1\"");
 
                         var method = item[3].Split(' ')[0].Replace("\"","");

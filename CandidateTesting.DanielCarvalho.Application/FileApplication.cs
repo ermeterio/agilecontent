@@ -19,6 +19,8 @@ namespace CandidateTesting.DanielCarvalho.Application
                     urlFile = $"{Directory.GetCurrentDirectory()}/{urlFile.Replace("./", "")}";
                 var splFile = urlFile.Split('/');
                 string file = splFile.LastOrDefault();
+                if (!System.IO.Path.GetExtension(file).Contains(".txt"))
+                    throw new Exception("Only .txt files are allowed in output");
                 if (!FileRepo.DirectoryExists(urlFile.Replace(file, "")))
                     FileRepo.CreateDirectory(urlFile.Replace(file, ""));
                 FileRepo.SaveFile(urlFile, content);
